@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Harmic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a0f88ffd401c695717f19ddaeee180f7251b55c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd2e390859b539888f8e3b53b78baab4b00524fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Harmic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Harmic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
