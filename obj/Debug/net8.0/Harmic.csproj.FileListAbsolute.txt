@@ -580,3 +580,4 @@ D:\harmic\Harmic\Harmic\obj\Debug\net8.0\Harmic.pdb
 D:\harmic\Harmic\Harmic\obj\Debug\net8.0\Harmic.genruntimeconfig.cache
 D:\harmic\Harmic\Harmic\obj\Debug\net8.0\ref\Harmic.dll
 D:\harmic\Harmic\Harmic\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\harmic\Harmic\Harmic\obj\Debug\net8.0\Harmic.sourcelink.json
