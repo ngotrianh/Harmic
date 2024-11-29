@@ -581,3 +581,7 @@ D:\harmic\Harmic\Harmic\obj\Debug\net8.0\Harmic.genruntimeconfig.cache
 D:\harmic\Harmic\Harmic\obj\Debug\net8.0\ref\Harmic.dll
 D:\harmic\Harmic\Harmic\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\harmic\Harmic\Harmic\obj\Debug\net8.0\Harmic.sourcelink.json
+D:\harmic\Harmic\Harmic\bin\Debug\net8.0\Harmic.staticwebassets.endpoints.json
+D:\harmic\Harmic\Harmic\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\harmic\Harmic\Harmic\obj\Debug\net8.0\staticwebassets\msbuild.Harmic.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\harmic\Harmic\Harmic\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
