@@ -73,13 +73,16 @@
                             <input type="text" id="c_name" placeholder="Name*" class="input-field">
                         </div>
                         <div class="form-field mt-6">
-                            <input type="text" id="c_email" placeholder="Email*" class="input-field">
+                            <input type="text" id="c_phone" placeholder="Phone*" class="input-field">
+                        </div>
+                        <div class="form-field mt-6">
+                            <input type="text" id="c_email" placeholder="Mail*" class="input-field">
                         </div>
                         <div class="form-field mt-6">
                             <textarea id="c_message" placeholder="Message" class="textarea-field"></textarea>
                         </div>
                         <div class="button-wrap mt-8">
-                            <button id="c_submit" value="submit" class="btn btn btn-custom-size lg-size btn-primary btn-secondary-hover rounded-0" name="submit">Post Message</button>
+                            <button id="c_submit" value="submit" type="button" class="btn btn btn-custom-size lg-size btn-primary btn-secondary-hover rounded-0" name="submit">Post Message</button>
                         </div>
                         <p class="form-messege mt-3 mb-0"></p>
                     </form>
@@ -100,7 +103,7 @@
                 $.ajax({
                     url: "/Contact/Create",
                     type:"POST",
-                    data:{name: _name,phone: _phone,email: _email,mesage: _message},
+                    data:{name: _name,phone: _phone,email: _email,message: _message},
                     success: function(result) {
                         if(result != null){
                            _name = $("#c_name").val();
